@@ -10,7 +10,9 @@ const corsOrigin = process.env.CORS_ORIGIN || "http://localhost:5173";
 app.use(cors({ credentials: true, origin: corsOrigin }));
 app.use(express.json());
 console.log("OpenAI API key loaded:", Boolean(process.env.OPENAI_API_KEY));
-
+app.get("/", (req, res) => {
+  res.send("Backend is working");
+});
 app.post("/chat", async (req, res) => {
   try {
     const { input } = req.body;
