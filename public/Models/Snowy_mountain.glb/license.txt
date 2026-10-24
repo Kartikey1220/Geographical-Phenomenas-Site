@@ -1,0 +1,11 @@
+Model Information:
+* title:	Snowy Volcano
+* source:	https://sketchfab.com/3d-models/snowy-volcano-4c8e17a5c16c46d99e4632046be23986
+* author:	Pukar Shiwakoti (https://sketchfab.com/PukarS)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Snowy Volcano" (https://sketchfab.com/3d-models/snowy-volcano-4c8e17a5c16c46d99e4632046be23986) by Pukar Shiwakoti (https://sketchfab.com/PukarS) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
